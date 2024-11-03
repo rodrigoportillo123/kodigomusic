@@ -1,0 +1,14 @@
+/* src/pages/Home.css */
+.home {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .card-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px; /* Espaciado entre los cuadros */
+    margin-top: 20px; /* Espaciado superior */
+  }
+  
